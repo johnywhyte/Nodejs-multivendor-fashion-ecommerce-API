@@ -1,0 +1,35 @@
+[
+	{
+		
+		"title": "Quality Ankara Dress",
+		"description": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"price": 7500,
+		"size": 12,
+		"categories": "Casuals",
+		"quantity": 5,
+		"img": "no-img.jpeg",
+		"store": "5d713995b721c3bb38c1f5d0"
+	},
+	{
+		
+		"title": "Wedding Dress",
+		"description": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"price": 150000,
+		"size": 15,
+		"categories": "Ready to Wear",
+		"quantity": 5,
+		"img": "no-img.jpeg",
+		"store": "5d713995b721c3bb38c1f5d0"
+	},
+	{
+		
+		"title": "Quality Ankara Dress",
+		"description": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"price": 4500,
+		"size": 13,
+		"categories": "Bespoke",
+		"quantity": 2,
+		"img": "no-img.jpeg",
+		"store": "5d713995b721c3bb38c1f5d0"
+	}
+]
